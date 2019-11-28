@@ -3,10 +3,6 @@
   src: url("./fonts/DIGITALDREAM.ttf");
 }
 
-body {
-  background: black;
-}
-
 .main {
   display: flex;
   flex-direction: column;
@@ -15,7 +11,7 @@ body {
 }
 
 .title {
-  font-size: 50px;
+  font-size: 3.125rem;
   font-weight: bold;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
@@ -28,12 +24,12 @@ body {
 }
 
 .label {
-  margin: 0 20px 0 20px;
-  font-size: 29px;
+  margin: 0 1.25rem 0 1.25rem;
+  font-size: 1.8125rem;
 }
 
 .downArrow {
-  font-size: 30px;
+  font-size: 1.875rem;
   transform: rotate(90deg);
   display: inline-block;
   cursor: pointer;
@@ -41,7 +37,7 @@ body {
 }
 
 .upArrow {
-  font-size: 30px;
+  font-size: 1.875rem;
   transform: rotate(-90deg);
   display: inline-block;
   cursor: pointer;
@@ -49,15 +45,15 @@ body {
 }
 
 .lengthLabel {
-  font-size: 30px;
-  margin: 0 10px;
+  font-size: 1.875rem;
+  margin: 0 0.625rem;
   text-align: left;
 }
 
 .setterWrapperContainer {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-column-gap: 150px;
+  grid-column-gap: 9.375rem;
 }
 
 .countContainer {
@@ -71,7 +67,7 @@ body {
 }
 
 #timer-label {
-  font-size: 36px;
+  font-size: 2.25rem;
   margin-bottom: 10px;
   font-weight: bold;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
@@ -80,11 +76,11 @@ body {
 
 #time-left {
   font-family: "Digital dream";
-  font-size: 46px;
+  font-size: 2.875rem;
   font-weight: bold;
 }
 
 .controlContainer {
   margin: 10px 0 0 0;
-  font-size: 30px;
+  font-size: 1.875rem;
 }

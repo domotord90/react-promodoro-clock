@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-promodoro-clock/static/css/main.936f6ffb.chunk.css",
-    "main.js": "/react-promodoro-clock/static/js/main.482f7b07.chunk.js",
-    "main.js.map": "/react-promodoro-clock/static/js/main.482f7b07.chunk.js.map",
+    "main.css": "/react-promodoro-clock/static/css/main.d04e89ef.chunk.css",
+    "main.js": "/react-promodoro-clock/static/js/main.13edec66.chunk.js",
+    "main.js.map": "/react-promodoro-clock/static/js/main.13edec66.chunk.js.map",
     "runtime~main.js": "/react-promodoro-clock/static/js/runtime~main.31482492.js",
     "runtime~main.js.map": "/react-promodoro-clock/static/js/runtime~main.31482492.js.map",
     "static/js/2.18a00cf8.chunk.js": "/react-promodoro-clock/static/js/2.18a00cf8.chunk.js",
     "static/js/2.18a00cf8.chunk.js.map": "/react-promodoro-clock/static/js/2.18a00cf8.chunk.js.map",
     "index.html": "/react-promodoro-clock/index.html",
-    "precache-manifest.4a3aaaed5707d368fa66a8a53a7957af.js": "/react-promodoro-clock/precache-manifest.4a3aaaed5707d368fa66a8a53a7957af.js",
+    "precache-manifest.7a8af5af0d426380e375b0425a3e4e31.js": "/react-promodoro-clock/precache-manifest.7a8af5af0d426380e375b0425a3e4e31.js",
     "service-worker.js": "/react-promodoro-clock/service-worker.js",
-    "static/css/main.936f6ffb.chunk.css.map": "/react-promodoro-clock/static/css/main.936f6ffb.chunk.css.map",
+    "static/css/main.d04e89ef.chunk.css.map": "/react-promodoro-clock/static/css/main.d04e89ef.chunk.css.map",
     "static/media/App.css": "/react-promodoro-clock/static/media/DIGITALDREAM.ee9072cf.ttf",
     "static/media/beep.mp3": "/react-promodoro-clock/static/media/beep.8ee39c4e.mp3"
   }
